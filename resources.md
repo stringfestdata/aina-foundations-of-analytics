@@ -7,3 +7,5 @@
 - https://blog.k2datascience.com/essential-checklist-for-any-data-analysis-or-science-project-7c4fa924e563 
 - http://www2.stat.duke.edu/~cr173/Sta102_Fa14/Lec/Lec2.pdf  
 - https://www.nyfa.edu/student-resources/pixars-rules-for-great-storytelling/  
+- https://youtu.be/noZnOSpcjYY  
+- https://youtu.be/QqA9eQXK3Bk  (Excel sentiment analysis)
